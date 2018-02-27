@@ -1,0 +1,64 @@
+h1, button, img{
+  user-select: none;
+}
+
+#doboz{
+  width: 500px;
+  height: 400px;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+.animate-img{
+  opacity: 0.44;
+  transition: opacity 0.33s ease-in-out;
+}
+
+.reAnimate-img{
+  opacity: 0.77;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.billiards{
+  width: 360px;
+  height: 144px;
+  padding: 4px 5px 4px 5px;
+  display: block;
+  float: none;
+  border: 1px solid red;
+
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+button{
+  width: 90px;
+  height: 40px;
+}
+
+a{
+  color: darkorchid;
+
+}
+
+table{
+  width: 550px;
+  padding-top: 50px;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  /*border-padding: 0px;*/
+}
+
+tr{
+  /*padding: 0px 0px 0px 0px;*/
+  margin: 0px 0px;
+  text-align: center;
+
+
+}
